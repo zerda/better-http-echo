@@ -1,0 +1,18 @@
+{
+  "name": "better-http-echo",
+  "version": "0.1.0",
+  "description": "Echo HTTP response with specified params (like status, delay, content)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "SilverFox <vzerda@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zerda/better-http-echo.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.0"
+  }
+}
